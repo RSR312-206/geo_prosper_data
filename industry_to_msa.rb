@@ -917,5 +917,8 @@ industries_to_msa =
   43580: "Sioux City, IA-NE-SD",
   47900: "Washington-Arlington-Alexandria, DC-VA-MD-WV",
   37980: "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
-  28700: "Kingsport-Bristol-Bristol, TN-VA"
+  28700: "Kingsport-Bristol-Bristol, TN-VA",
+
+
+
 }
