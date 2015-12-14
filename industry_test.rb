@@ -28,5 +28,4 @@ getdata()
     #  if v == seattle.values.max
     #   puts "#{k} and #{v}"
     # end
-
   # end
