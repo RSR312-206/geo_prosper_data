@@ -1,5 +1,5 @@
 major_industries = {
-  11: "'Forestry, fishing, hunting, and agriculture support",
+  11: "Forestry, fishing, hunting, and agriculture support",
   21: "Mining",
   22: "Utilities",
   23: "Construction",
