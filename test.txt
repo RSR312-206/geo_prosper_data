@@ -1,0 +1,101 @@
+AL|01|00100|Abanda CDP|Census Designated Place|S|Chambers County
+
+AL|01|00124|Abbeville city|Incorporated Place|A|Henry County
+
+AL|01|00460|Adamsville city|Incorporated Place|A|Jefferson County
+
+AL|01|00484|Addison town|Incorporated Place|A|Winston County
+
+AL|01|00676|Akron town|Incorporated Place|A|Hale County
+
+AL|01|00820|Alabaster city|Incorporated Place|A|Shelby County
+
+AL|01|00988|Albertville city|Incorporated Place|A|Marshall County
+
+AL|01|01132|Alexander City city|Incorporated Place|A|Tallapoosa County
+
+AL|01|01180|Alexandria CDP|Census Designated Place|S|Calhoun County
+
+AL|01|01228|Aliceville city|Incorporated Place|A|Pickens County
+
+AL|01|01396|Allgood town|Incorporated Place|A|Blount County
+
+AL|01|01660|Altoona town|Incorporated Place|A|Blount County, Etowah County
+
+AL|01|01708|Andalusia city|Incorporated Place|A|Covington County
+
+AL|01|01756|Anderson town|Incorporated Place|A|Lauderdale County
+
+AL|01|01852|Anniston city|Incorporated Place|A|Calhoun County
+
+AL|01|02116|Arab city|Incorporated Place|A|Cullman County, Marshall County
+
+AL|01|02260|Ardmore town|Incorporated Place|A|Limestone County
+
+AL|01|02320|Argo town|Incorporated Place|A|Jefferson County, St. Clair County
+
+AL|01|02428|Ariton town|Incorporated Place|A|Dale County
+
+AL|01|02500|Arley town|Incorporated Place|A|Winston County
+
+AL|01|02836|Ashford town|Incorporated Place|A|Houston County
+
+AL|01|02860|Ashland town|Incorporated Place|A|Clay County
+
+AL|01|02908|Ashville city|Incorporated Place|A|St. Clair County
+
+AL|01|02956|Athens city|Incorporated Place|A|Limestone County
+
+AL|01|03004|Atmore city|Incorporated Place|A|Escambia County
+
+AL|01|03028|Attalla city|Incorporated Place|A|Etowah County
+
+AL|01|03076|Auburn city|Incorporated Place|A|Lee County
+
+AL|01|03220|Autaugaville town|Incorporated Place|A|Autauga County
+
+AL|01|03364|Avon town|Incorporated Place|A|Houston County
+
+AL|01|03508|Axis CDP|Census Designated Place|S|Mobile County
+
+AL|01|03556|Babbie town|Incorporated Place|A|Covington County
+
+AL|01|03676|Baileyton town|Incorporated Place|A|Cullman County
+
+AL|01|03724|Bakerhill town|Incorporated Place|A|Barbour County
+
+AL|01|03820|Ballplay CDP|Census Designated Place|S|Etowah County
+
+AL|01|03940|Banks town|Incorporated Place|A|Pike County
+
+AL|01|04660|Bay Minette city|Incorporated Place|A|Baldwin County
+
+AL|01|04684|Bayou La Batre city|Incorporated Place|A|Mobile County
+
+AL|01|04852|Bear Creek town|Incorporated Place|A|Marion County
+
+AL|01|04900|Beatrice town|Incorporated Place|A|Monroe County
+
+AL|01|04948|Beaverton town|Incorporated Place|A|Lamar County
+
+AL|01|05140|Belgreen CDP|Census Designated Place|S|Franklin County
+
+AL|01|05164|Belk town|Incorporated Place|A|Fayette County
+
+AL|01|05188|Bellamy CDP|Census Designated Place|S|Sumter County
+
+AL|01|05212|Belle Fontaine CDP|Census Designated Place|S|Mobile County
+
+AL|01|05692|Benton town|Incorporated Place|A|Lowndes County
+
+AL|01|05932|Berry town|Incorporated Place|A|Fayette County
+
+AL|01|05980|Bessemer city|Incorporated Place|A|Jefferson County
+
+AL|01|06460|Billingsley town|Incorporated Place|A|Autauga County
+
+AL|01|07000|Birmingham city|Incorporated Place|A|Jefferson County, Shelby County
+
+AL|01|07120|Black town|Incorporated Place|A|Geneva County
+
+AL|01|07456|Blountsville town|Incorporated Place|A|Blount County
