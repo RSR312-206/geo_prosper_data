@@ -9796,7 +9796,7 @@ IN|18|61092|Portage city|Incorporated Place|A|Porter County
 
 IN|18|61164|Porter town|Incorporated Place|A|Porter County
 
-IN|18|61236|Portland city|Incorporated Place|A|Jay County
+IN|18|61236| city|Incorporated Place|A|Jay County
 
 IN|18|61416|Poseyville town|Incorporated Place|A|Posey County
 

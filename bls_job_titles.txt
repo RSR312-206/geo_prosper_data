@@ -1,0 +1,601 @@
+
+131020|  Buyers and Purchasing Agents
+131030|  Claims Adjusters, Appraisers, Examiners, and Investigators
+131032|  Insurance Appraisers, Auto Damage
+131041|  Compliance Officers
+131051|  Cost Estimators
+131070|  Human Resources Workers
+131081|  Logisticians
+131111|  Management Analysts
+131121|  Meeting, Convention, and Event Planners
+131131|  Fundraisers
+131141|  Compensation, Benefits, and Job Analysis Specialists
+131151|  Training and Development Specialists
+131161|  Market Research Analysts and Marketing Specialists
+132000|  Financial Specialists
+132011|  Accountants and Auditors
+132021|  Appraisers and Assessors of Real Estate
+132031|  Budget Analysts
+132041|  Credit Analysts
+132050|  Financial Analysts and Advisors
+132051|  Financial Analysts
+132052|  Personal Financial Advisors
+132053|  Insurance Underwriters
+132061|  Financial Examiners
+132070|  Credit Counselors and Loan Officers
+132071|  Credit Counselors
+132072|  Loan Officers
+132081|  Tax Examiners and Collectors, and Revenue Agents
+132082|  Tax Preparers
+151120|  Computer and Information Analysts
+151121|  Computer Systems Analysts
+151122|  Information Security Analysts
+151131|  Computer Programmers
+151132|  Software Developers, Applications
+151133|  Software Developers, Systems Software
+151134|  Web Developers
+151141|  Database Administrators
+151142|  Network and Computer Systems Administrators
+151143|  Computer Network Architects
+151150|  Computer Support Specialists
+151151|  Computer User Support Specialists
+151152|  Computer Network Support Specialists
+152011|  Actuaries
+152021|  Mathematicians
+152031|  Operations Research Analysts
+152041|  Statisticians
+152091|  Mathematical Technicians
+171000|  Architects, Surveyors, and Cartographers
+171012|  Landscape Architects
+171020|  Surveyors, Cartographers, and Photogrammetrists5
+171021|  Cartographers and Photogrammetrists
+171022|  Surveyors
+172011|  Aerospace Engineers
+172021|  Agricultural Engineers
+172031|  Biomedical Engineers
+172041|  Chemical Engineers
+172051|  Civil Engineers
+172061|  Computer Hardware Engineers
+172071|  Electrical Engineers
+172081|  Environmental Engineers
+172112|  Industrial Engineers
+172141|  Mechanical Engineers
+172161|  Nuclear Engineers
+172171|  Petroleum Engineers
+173011|  Architectural and Civil Drafters
+173031|  Surveying and Mapping Technicians
+191000|  Life Scientists
+191010|  Agricultural and Food Scientists
+191011|  Animal Scientists
+191012|  Food Scientists and Technologists
+191013|  Soil and Plant Scientists
+191020|  Biological Scientists
+191021|  Biochemists and Biophysicists
+191022|  Microbiologists
+191023|  Zoologists and Wildlife Biologists
+191031|  Conservation Scientists
+191032|  Foresters
+191040|  Medical Scientists
+191041|  Epidemiologists
+192000|  Physical Scientists
+192011|  Astronomers
+192012|  Physicists
+192031|  Chemists
+192032|  Materials Scientists
+192040|  Environmental Scientists and Geoscientists
+192043|  Hydrologists
+193000|  Social Scientists and Related Workers
+193011|  Economists
+193022|  Survey Researchers
+193030|  Psychologists
+193031|  Clinical, Counseling, and School Psychologists
+193041|  Sociologists
+193051|  Urban and Regional Planners
+193091|  Anthropologists and Archeologists
+193092|  Geographers
+193093|  Historians
+193094|  Political Scientists
+194000|  Life, Physical, and Social Science Technicians
+194011|  Agricultural and Food Science Technicians
+194021|  Biological Technicians
+194031|  Chemical Technicians
+194041|  Geological and Petroleum Technicians
+194051|  Nuclear Technicians
+194061|  Social Science Research Assistants
+194091|  Environmental Science and Protection Technicians, Including Health
+194092|  Forensic Science Technicians
+194093|  Forest and Conservation Technicians
+211010|  Counselors
+211011|  Substance Abuse and Behavioral Disorder Counselors|
+211012|  Educational, Guidance, School, and Vocational Counselors|
+211013|  Marriage and Family Therapists|
+211014|  Mental Health Counselors|
+211015|  Rehabilitation Counselors
+211020|  Social Workers
+211021|  Child, Family, and School Social Workers|
+211022|  Healthcare Social Workers
+211023|  Mental Health and Substance Abuse Social Workers|
+211091|  Health Educators|
+211093|  Social and Human Service Assistants
+211094|  Community Health Workers|
+212000|  Religious Workers
+231000|  Lawyers, Judges, and Related Workers
+231011|  Lawyers
+232000|  Legal Support Workers
+232011|  Paralegals and Legal Assistants
+232091|  Court Reporters
+232093|  Title Examiners, Abstractors, and Searchers
+251000|  Postsecondary Teachers
+251011|  Business Teachers, Postsecondary|
+251020|  Math and Computer Teachers, Postsecondary
+251021|  Computer Science Teachers, Postsecondary|
+251022|  Mathematical Science Teachers, Postsecondary|
+251030|  Engineering and Architecture Teachers, Postsecondary
+251031|  Architecture Teachers, Postsecondary|
+251032|  Engineering Teachers, Postsecondary
+251040|  Life Sciences Teachers, Postsecondary1
+251041|  Agricultural Sciences Teachers, Postsecondary
+251042|  Biological Science Teachers, Postsecondary|
+251043|  Forestry and Conservation Science Teachers, Postsecondary
+251050|  Physical Sciences Teachers, Postsecondary5
+251051|  Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary|
+251052|  Chemistry Teachers, Postsecondary
+251053|  Environmental Science Teachers, Postsecondary
+251054|  Physics Teachers, Postsecondary
+251060|  Social Sciences Teachers, Postsecondary
+251061|  Anthropology and Archeology Teachers, Postsecondary
+251062|  Area, Ethnic, and Cultural Studies Teachers, Postsecondary|
+251063|  Economics Teachers, Postsecondary
+251064|  Geography Teachers, Postsecondary
+251065|  Political Science Teachers, Postsecondary
+251066|  Psychology Teachers, Postsecondary|
+251067|  Sociology Teachers, Postsecondary
+251070|  Health Teachers, Postsecondary
+251071|  Health Specialties Teachers, Postsecondary|
+251072|  Nursing Instructors and Teachers, Postsecondary
+251081|  Education Teachers, Postsecondary
+251082|  Library Science Teachers, Postsecondary
+251110|  Law, Criminal Justice, and Social Work Teachers, Postsecondary
+251111|  Criminal Justice and Law Enforcement Teachers, Postsecondary|
+251112|  Law Teachers, Postsecondary
+251113|  Social Work Teachers, Postsecondary
+251120|  Arts, Communications, and Humanities Teachers, Postsecondary
+251121|  Art, Drama, and Music Teachers, Postsecondary
+251122|  Communications Teachers, Postsecondary|
+251123|  English Language and Literature Teachers, Postsecondary
+251124|  Foreign Language and Literature Teachers, Postsecondary
+251125|  History Teachers, Postsecondary
+251126|  Philosophy and Religion Teachers, Postsecondary
+252010|  Preschool and Kindergarten Teachers
+252020|  Elementary and Middle School Teachers
+252030|  Secondary School Teachers
+252050|  Special Education Teachers
+254000|  Librarians, Curators, and Archivists
+254010|  Archivists, Curators, and Museum Technicians
+254011|  Archivists|
+254012|  Curators|
+254013|  Museum Technicians and Conservators
+254021|  Librarians|
+254031|  Library Technicians
+259011|  Audio-Visual and Multimedia Collections Specialists
+259031|  Instructional Coordinators|
+259041|  Teacher Assistants|
+271000|  Art and Design Workers
+271010|  Artists and Related Workers0
+271011|  Art Directors 1
+271014|  Multimedia Artists and Animators|
+271020|  Designers
+271021|  Commercial and Industrial Designers
+271022|  Fashion Designers
+271023|  Floral Designers|
+271024|  Graphic Designers
+271025|  Interior Designers|
+271026|  Merchandise Displayers and Window Trimmers|
+271027|  Set and Exhibit Designers
+272000|  Entertainers and Performers, Sports and Related Workers
+272010|  Actors, Producers, and Directors
+272011|  Actors|
+272012|  Producers and Directors
+272020|  Athletes, Coaches, Umpires, and Related Workers9
+272021|  Athletes and Sports Competitors
+272031|  Dancers
+272032|  Choreographers|
+272041|  Music Directors and Composers
+272042|  Musicians and Singers
+273000|  Media and Communication Workers
+273010|  Announcers
+273011|  Radio and Television Announcers
+273020|  News Analysts, Reporters and Correspondents
+273021|  Broadcast News Analysts
+273022|  Reporters and Correspondents|
+273031|  Public Relations Specialists|
+273040|  Writers and Editors
+273041|  Editors
+273042|  Technical Writers
+273043|  Writers and Authors
+273091|  Interpreters and Translators|
+274000|  Media and Communication Equipment Workers
+274010|  Broadcast and Sound Engineering Technicians and Radio Operators6
+274011|  Audio and Video Equipment Technicians
+274012|  Broadcast Technicians
+274013|  Radio Operators
+274014|  Sound Engineering Technicians
+274021|  Photographers
+274031|  Camera Operators, Television, Video, and Motion Picture
+291000|  Health Diagnosing and Treating Practitioners
+291011|  Chiropractors
+291020|  Dentists
+291021|  Dentists, General
+291022|  Oral and Maxillofacial Surgeons
+291023|  Orthodontists
+291024|  Prosthodontists
+291031|  Dietitians and Nutritionists|
+291041|  Optometrists|
+291051|  Pharmacists
+291060|  Physicians and Surgeons
+291061|  Anesthesiologists
+291062|  Family and General Practitioners|
+291063|  Internists, General
+291064|  Obstetricians and Gynecologists
+291065|  Pediatricians, General|
+291066|  Psychiatrists
+291067|  Surgeons|
+291071|  Physician Assistants|
+291081|  Podiatrists
+291120|  Therapists
+291122|  Occupational Therapists
+291123|  Physical Therapists
+291124|  Radiation Therapists|
+291125|  Recreational Therapists
+291126|  Respiratory Therapists|
+291127|  Speech-Language Pathologists|
+291128|  Exercise Physiologists|
+291131|  Veterinarians
+291141|  Registered Nurses
+291151|  Nurse Anesthetists|
+291161|  Nurse Midwives|
+291171|  Nurse Practitioners
+291181|  Audiologists|
+292000|  Health Technologists and Technicians
+292012|  Medical and Clinical Laboratory Technicians
+292021|  Dental Hygienists
+292030|  Diagnostic Related Technologists and Technicians
+292031|  Cardiovascular Technologists and Technicians|
+292032|  Diagnostic Medical Sonographers
+292033|  Nuclear Medicine Technologists|
+292034|  Radiologic Technologists|
+292035|  Magnetic Resonance Imaging Technologists|
+292041|  Emergency Medical Technicians and Paramedics|
+292050|  Health Practitioner Support Technologists and Technicians
+292051|  Dietetic Technicians|
+292052|  Pharmacy Technicians
+292053|  Psychiatric Technicians
+292054|  Respiratory Therapy Technicians
+292055|  Surgical Technologists|
+292056|  Veterinary Technologists and Technicians|
+292057|  Ophthalmic Medical Technicians|
+292061|  Licensed Practical and Licensed Vocational Nurses
+292081|  Opticians, Dispensing
+292091|  Orthotists and Prosthetists
+292092|  Hearing Aid Specialists
+299091|  Athletic Trainers
+299092|  Genetic Counselors|
+311011|  Home Health Aides
+311013|  Psychiatric Aides
+311014|  Nursing Assistants|
+311015|  Orderlies
+312011|  Occupational Therapy Assistants
+312012|  Occupational Therapy Aides
+312021|  Physical Therapist Assistants
+312022|  Physical Therapist Aides|
+319011|  Massage Therapists|
+319091|  Dental Assistants
+319092|  Medical Assistants|
+319093|  Medical Equipment Preparers
+319094|  Medical Transcriptionists
+319095|  Pharmacy Aides|
+319096|  Veterinary Assistants and Laboratory Animal Caretakers|
+319097|  Phlebotomists
+331000|  Supervisors of Protective Service Workers
+332011|  Firefighters|
+332020|  Fire Inspectors3
+332021|  Fire Inspectors and Investigators
+332022|  Forest Fire Inspectors and Prevention Specialists
+333000|  Law Enforcement Workers
+333010|  Bailiffs, Correctional Officers, and Jailers
+333012|  Correctional Officers and Jailers
+333021|  Detectives and Criminal Investigators
+333031|  Fish and Game Wardens
+333041|  Parking Enforcement Workers
+333050|  Police Officers
+333052|  Transit and Railroad Police
+339011|  Animal Control Workers
+339021|  Private Detectives and Investigators|
+339030|  Security Guards and Gaming Surveillance Officers
+339031|  Gaming Surveillance Officers and Gaming Investigators
+339032|  Security Guards
+339091|  Crossing Guards
+339093|  Transportation Security Screeners
+351010|  Supervisors of Food Preparation and Serving Workers
+351011|  Chefs and Head Cooks|
+352010|  Cooks
+353011|  Bartenders|
+353031|  Waiters and Waitresses|
+372000|  Building Cleaning and Pest Control Workers
+372010|  Building Cleaning Workers7
+372012|  Maids and Housekeeping Cleaners
+372021|  Pest Control Workers|
+373010|  Grounds Maintenance Workers2
+373011|  Landscaping and Groundskeeping Workers|
+373012|  Pesticide Handlers, Sprayers, and Applicators, Vegetation
+373013|  Tree Trimmers and Pruners
+391000|  Supervisors of Personal Care and Service Workers
+391011|  Gaming Supervisors|
+391012|  Slot Supervisors|
+392000|  Animal Care and Service Workers
+392011|  Animal Trainers
+392021|  Nonfarm Animal Caretakers
+393000|  Entertainment Attendants and Related Workers
+393010|  Gaming Services Workers7
+393011|  Gaming Dealers|
+393012|  Gaming and Sports Book Writers and Runners|
+393021|  Motion Picture Projectionists
+393031|  Ushers, Lobby Attendants, and Ticket Takers
+393091|  Amusement and Recreation Attendants
+393092|  Costume Attendants|
+393093|  Locker Room, Coatroom, and Dressing Room Attendants
+394000|  Funeral Service Workers
+394011|  Embalmers
+394021|  Funeral Attendants
+394031|  Morticians, Undertakers, and Funeral Directors|
+395091|  Makeup Artists, Theatrical and Performance|
+395092|  Manicurists and Pedicurists
+395094|  Skincare Specialists|
+396011|  Baggage Porters and Bellhops|
+396012|  Concierges|
+397011|  Tour Guides and Escorts
+397012|  Travel Guides
+399011|  Childcare Workers
+399021|  Personal Care Aides
+399031|  Fitness Trainers and Aerobics Instrutors
+399032|  Recreation Workers|
+399041|  Residential Advisors|
+412000|  Retail Sales Workers
+412012|  Gaming Change Persons and Booth Cashiers|
+412022|  Parts Salespersons|
+412031|  Retail Salespersons
+413000|  Sales Representatives, Services
+413011|  Advertising Sales Agents|
+413021|  Insurance Sales Agents|
+413031|  Securities, Commodities, and Financial Services Sales Agents|
+413041|  Travel Agents
+414010|  Sales Representatives, Wholesale and Manufacturing
+414011|  Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products
+419010|  Models, Demonstrators, and Product Promoters
+419011|  Demonstrators and Product Promoters
+419012|  Models|
+419020|  Real Estate Brokers and Sales Agents
+419021|  Real Estate Brokers
+419022|  Real Estate Sales Agents|
+419031|  Sales Engineers
+419041|  Telemarketers
+432000|  Communications Equipment Operators
+432011|  Switchboard Operators, Including Answering Service|
+432021|  Telephone Operators
+433011|  Bill and Account Collectors
+433041|  Gaming Cage Workers
+433071|  Tellers
+434051|  Customer Service Representatives|
+434061|  Eligibility Interviewers, Government Programs
+434121|  Library Assistants, Clerical|
+435000|  Material Recording, Scheduling, Dispatching, and Distributing Workers
+435011|  Cargo and Freight Agents|
+435021|  Couriers and Messengers
+435030|  Dispatchers
+435031|  Police, Fire, and Ambulance Dispatchers
+435041|  Meter Readers, Utilities
+435050|  Postal Service Workers
+435052|  Postal Service Mail Carriers|
+435053|  Postal Service Mail Sorters, Processors, and Processing Machine Operators
+435111|  Weighers, Measurers, Checkers, and Samplers, Recordkeeping|
+436010|  Secretaries and Administrative Assistants6
+436011|  Executive Secretaries and Executive Administrative Assistants
+436012|  Legal Secretaries
+436013|  Medical Secretaries
+439011|  Computer Operators|
+439020|  Data Entry and Information Processing Workers3
+439021|  Data Entry Keyers
+439022|  Word Processors and Typists
+439031|  Desktop Publishers|
+439081|  Proofreaders and Copy Markers
+439111|  Statistical Assistants|
+452000|  Agricultural Workers
+452011|  Agricultural Inspectors
+452021|  Animal Breeders
+452041|  Graders and Sorters, Agricultural Products|
+452091|  Agricultural Equipment Operators|
+452092|  Farmworkers and Laborers, Crop, Nursery, and Greenhouse
+452093|  Farmworkers, Farm, Ranch, and Aquacultural Animals|
+453000|  Fishing and Hunting Workers
+453011|  Fishers and Related Fishing Workers
+454000|  Forest, Conservation, and Logging workers
+454011|  Forest and Conservation Workers
+454020|  Logging Workers
+454022|  Logging Equipment Operators
+472000|  Construction Trades Workers
+472011|  Boilermakers|
+472022|  Stonemasons
+472031|  Carpenters|
+472041|  Carpet Installers
+472043|  Floor Sanders and Finishers
+472061|  Construction Laborers
+472070|  Construction Equipment Operators
+472072|  Pile-Driver Operators
+472082|  Tapers|
+472111|  Electricians|
+472121|  Glaziers|
+472130|  Insulation Workers
+472151|  Pipelayers|
+472152|  Plumbers, Pipefitters, and Steamfitters
+472171|  Reinforcing Iron and Rebar Workers|
+472181|  Roofers
+472211|  Sheet Metal Workers
+472221|  Structural Iron and Steel Workers
+472231|  Solar Photovoltaic Installers
+474011|  Construction and Building Inspectors|
+474021|  Elevator Installers and Repairers
+474031|  Fence Erectors|
+474041|  Hazardous Materials Removal Workers
+474051|  Highway Maintenance Workers
+474061|  Rail-Track Laying and Maintenance Equipment Operators
+474071|  Septic Tank Servicers and Sewer Pipe Cleaners
+474091|  Segmental Pavers|
+475000|  Extraction Workers
+475010|  Derrick, Rotary Drill, and Service Unit Operators, Oil, Gas, and Mining
+475011|  Derrick Operators, Oil and Gas|
+475012|  Rotary Drill Operators, Oil and Gas
+475013|  Service Unit Operators, Oil, Gas, and Mining|
+475031|  Explosives Workers, Ordnance Handling Experts, and Blasters
+475040|  Mining Machine Operators
+475041|  Continuous Mining Machine Operators
+475042|  Mine Cutting and Channeling Machine Operators
+475051|  Rock Splitters, Quarry|
+475061|  Roof Bolters, Mining|
+475071|  Roustabouts, Oil and Gas|
+475081|  Helpers--Extraction Workers
+492000|  Electrical and Electronic Equipment Mechanics, Installers, and Repairers
+492011|  Computer, Automated Teller, and Office Machine Repairers|
+492020|  Radio and Telecommunications Equipment Installers and Repairers4
+492021|  Radio, Cellular, and Tower Equipment Installers and Repairers
+492091|  Avionics Technicians|
+492094|  Electrical and Electronics Repairers, Commercial and Industrial Equipment
+492095|  Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+492096|  Electronic Equipment Installers and Repairers, Motor Vehicles
+492097|  Electronic Home Entertainment Equipment Installers and Repairers|
+493011|  Aircraft Mechanics and Service Technicians|
+493020|  Automotive Technicians and Repairers
+493021|  Automotive Body and Related Repairers
+493022|  Automotive Glass Installers and Repairers
+493023|  Automotive Service Technicians and Mechanics|
+493031|  Bus and Truck Mechanics and Diesel Engine Specialists
+493040|  Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics
+493041|  Farm Equipment Mechanics and Service Technicians|
+493043|  Rail Car Repairers|
+493050|  Small Engine Mechanics
+493051|  Motorboat Mechanics and Service Technicians
+493052|  Motorcycle Mechanics|
+493091|  Bicycle Repairers
+493092|  Recreational Vehicle Service Technicians|
+493093|  Tire Repairers and Changers
+499010|  Control and Valve Installers and Repairers
+499011|  Mechanical Door Repairers
+499021|  Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+499031|  Home Appliance Repairers|
+499040|  Industrial Machinery Installation, Repair, and Maintenance Workers
+499041|  Industrial Machinery Mechanics|
+499043|  Maintenance Workers, Machinery|
+499050|  Line Installers and Repairers6
+499051|  Electrical Power-Line Installers and Repairers|
+499052|  Telecommunications Line Installers and Repairers|
+499060|  Precision Instrument and Equipment Repairers
+499061|  Camera and Photographic Equipment Repairers
+499062|  Medical Equipment Repairers
+499063|  Musical Instrument Repairers and Tuners
+499064|  Watch Repairers
+499071|  Maintenance and Repair Workers, General
+499081|  Wind Turbine Service Technicians|
+499091|  Coin, Vending, and Amusement Machine Servicers and Repairers|
+499092|  Commercial Divers
+499094|  Locksmiths and Safe Repairers
+499095|  Manufactured Building and Mobile Home Installers|
+499096|  Riggers
+499097|  Signal and Track Switch Repairers
+499098|  Helpers--Installation, Maintenance, and Repair Workers|
+512000|  Assemblers and Fabricators
+512011|  Aircraft Structure, Surfaces, Rigging, and Systems Assemblers
+512020|  Electrical, Electronics, and Electromechanical Assemblers1
+512021|  Coil Winders, Tapers, and Finishers
+512022|  Electrical and Electronic Equipment Assemblers|
+512023|  Electromechanical Equipment Assemblers|
+512041|  Structural Metal Fabricators and Fitters|
+512091|  Fiberglass Laminators and Fabricators
+512092|  Team Assemblers
+512093|  Timing Device Assemblers and Adjusters|
+513000|  Food Processing Workers
+513011|  Bakers
+513021|  Butchers and Meat Cutters
+513093|  Food Cooking Machine Operators and Tenders|
+514000|  Metal Workers and Plastic Workers
+514010|  Computer Control Programmers and Operators
+514012|  Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic
+514030|  Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic1
+514041|  Machinists|
+517000|  Woodworkers
+517011|  Cabinetmakers and Bench Carpenters|
+517021|  Furniture Finishers
+517030|  Model Makers and Patternmakers, Wood
+517031|  Model Makers, Wood|
+517032|  Patternmakers, Wood
+517040|  Woodworking Machine Setters, Operators, and Tenders
+517041|  Sawing Machine Setters, Operators, and Tenders, Wood|
+518000|  Plant and System Operators
+518010|  Power Plant Operators, Distributors, and Dispatchers
+518011|  Nuclear Power Reactor Operators
+518012|  Power Distributors and Dispatchers|
+518013|  Power Plant Operators
+518021|  Stationary Engineers and Boiler Operators
+518031|  Water and Wastewater Treatment Plant and System Operators
+518091|  Chemical Plant and System Operators
+518092|  Gas Plant Operators
+518093|  Petroleum Pump System Operators, Refinery Operators, and Gaugers|
+519010|  Chemical Processing Machine Setters, Operators, and Tenders
+519071|  Jewelers and Precious Stone and Metal Workers
+519080|  Medical, Dental, and Ophthalmic Laboratory Technicians
+519081|  Dental Laboratory Technicians
+519082|  Medical Appliance Technicians
+519083|  Ophthalmic Laboratory Technicians
+519120|  Painting Workers
+519121|  Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+519122|  Painters, Transportation Equipment|
+519123|  Painting, Coating, and Decorating Workers
+519141|  Semiconductor Processors|
+519151|  Photographic Process Workers and Processing Machine Operators
+519194|  Etchers and Engravers
+519196|  Paper Goods Machine Setters, Operators, and Tenders
+531000|  Supervisors of Transportation and Material Moving Workers
+531011|  Aircraft Cargo Handling Supervisors
+532000|  Air Transportation Workers|
+532010|  Aircraft Pilots and Flight Engineers
+532011|  Airline Pilots, Copilots, and Flight Engineers|
+532012|  Commercial Pilots
+532020|  Air Traffic Controllers and Airfield Operations Specialists29
+532021|  Air Traffic Controllers
+532022|  Airfield Operations Specialists
+532031|  Flight Attendants
+533000|  Motor Vehicle Operators
+533020|  Bus Drivers
+533032|  Heavy and Tractor-Trailer Truck Drivers
+533033|  Light Truck or Delivery Services Drivers|
+533041|  Taxi Drivers and Chauffeurs
+534000|  Rail Transportation Workers
+534011|  Locomotive Engineers|
+534012|  Locomotive Firers
+534013|  Rail Yard Engineers, Dinkey Operators, and Hostlers
+534021|  Railroad Brake, Signal, and Switch Operators|
+534031|  Railroad Conductors and Yardmasters
+534041|  Subway and Streetcar Operators|
+535000|  Water Transportation Workers
+535011|  Sailors and Marine Oilers
+535020|  Ship and Boat Captains and Operators
+535031|  Ship Engineers
+536011|  Bridge and Lock Tenders
+536031|  Automotive and Watercraft Service Attendants
+536041|  Traffic Technicians
+536051|  Transportation Inspectors
+537021|  Crane and Tower Operators
+537031|  Dredge Operators
+537051|  Industrial Truck and Tractor Operators
+537071|  Gas Compressor and Gas Pumping Station Operators
+537081|  Refuse and Recyclable Material Collectors
+537121|  Tank Car, Truck, and Ship Loaders
+

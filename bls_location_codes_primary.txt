@@ -1,53 +1,51 @@
-36 0035620 M New York-Northern New Jersey-Long Island, NY-NJ-PA
-06 0031100 M Los Angeles-Long Beach-Santa Ana, CA
-17 0016980 M Chicago-Joliet-Naperville, IL-IN-WI
-06 0041860 M San Francisco-Oakland-Fremont, CA
-06 0041940 M San Jose-Sunnyvale-Santa Clara, CA
-25 0071654 M Boston-Cambridge-Quincy, MA NECTA Division
-48 0019100 M Dallas-Fort Worth-Arlington, TX
-42 0037980 M Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
-48 0026420 M Houston-Sugar Land-Baytown, TX
-12 0033100 M Miami-Fort Lauderdale-Pompano Beach, FL
-13 0012060 M Atlanta-Sandy Springs-Marietta, GA
-26 0019820 M Detroit-Warren-Livonia, MI
-53 0042660 M Seattle-Tacoma-Bellevue, WA
-27 0033460 M Minneapolis-St. Paul-Bloomington, MN-WI
-39 0017460 M Cleveland-Elyria-Mentor, OH
-08 0019740 M Denver-Aurora-Broomfield, CO
-23 0076750 M Portland-South Portland-Biddeford, ME
-12 0036740 M Orlando-Kissimmee-Sanford, FL
-29 0041180 M St. Louis, MO-IL
-42 0038300 M Pittsburgh, PA
-37 0016740 M Charlotte-Gastonia-Rock Hill, NC-SC
-06 0040900 M Sacramento--Arden-Arcade--Roseville, CA
-29 0028140 M Kansas City, MO-KS
-55 0033340 M Milwaukee-Waukesha-West Allis, WI
-37 0039580 M Raleigh-Cary, NC
-49 0041620 M Salt Lake City, UT
-39 0018140 M Columbus, OH
-18 0026900 M Indianapolis-Carmel, IN
-32 0029820 M Las Vegas-Paradise, NV
-39 0017140 M Cincinnati-Middletown, OH-KY-IN
-47 0034980 M Nashville-Davidson--Murfreesboro--Franklin, TN
-51 0047260 M Virginia Beach-Norfolk-Newport News, VA-NC
-11 0047900 M Washington-Arlington-Alexandria, DC-VA-MD-WV
-01 0013820 M Birmingham-Hoover, AL
-40 0046140 M Tulsa, OK
-48 0021340 M El Paso, TX
-31 0036540 M Omaha-Council Bluffs, NE-IA
-16 0014260 M Boise City-Nampa, ID
-41 0038900 M Portland-Vancouver-Hillsboro, OR-WA
-04 0046060 M Tucson, AZ
-05 0030780 M Little Rock-North Little Rock-Conway, AR
-13 0042340 M Savannah, GA
-36 0045060 M Syracuse, NY
-38 0013900 M Bismarck, ND
-46 0043620 M Sioux Falls, SD
-30 0013740 M Billings, MT
-37 0015500 M Burlington, NC
-13 0012260 M Augusta-Richmond County, GA-SC
-53 0036500 M Olympia, WA
-04 0038060 M Phoenix-Mesa-Glendale, AZ
-06 0041740 M San Diego-Carlsbad-San Marcos, CA
+0035620  "New York-Northern New Jersey-Long Island, NY-NJ-PA"  3651000
+0031100  "Los Angeles-Long Beach-Santa Ana, CA"  0644000
+0016980  "Chicago-Joliet-Naperville, IL-IN-WI"  1714000
+0041860  "San Francisco-Oakland-Fremont, CA"  0667000
+0041940  "San Jose-Sunnyvale-Santa Clara, CA"  0668000
+0071654  "Boston-Cambridge-Quincy, MA NECTA Division"  2507000
+0019100  "Dallas-Fort Worth-Arlington, TX"  4819000
+0037980  "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"  4260000
+0026420  "Houston-Sugar Land-Baytown, TX"  4835000
+0033100  "Miami-Fort Lauderdale-Pompano Beach, FL"  1245000
+0012060  "Atlanta-Sandy Springs-Marietta, GA"  1304000
+0019820  "Detroit-Warren-Livonia, MI"  2622000
+0042660  "Seattle-Tacoma-Bellevue, WA"  5363000
+0033460  "Minneapolis-St. Paul-Bloomington, MN-WI"  2743000
+0017460  "Cleveland-Elyria-Mentor, OH"  2814260
+0019740  "Denver-Aurora-Broomfield, CO"  0820000
+0076750  "Portland-South Portland-Biddeford, ME"  2360545
+0036740  "Orlando-Kissimmee-Sanford, FL"  1253000
+0041180  "St. Louis, MO-IL"  2965000
+0038300  "Pittsburgh, PA"  4261000
+0016740  "Charlotte-Gastonia-Rock Hill, NC-SC"  3712000
+0040900  "Sacramento--Arden-Arcade--Roseville, CA"  0664000
+0028140  "Kansas City, MO-KS"  2002300
+0033340  "Milwaukee-Waukesha-West Allis, WI"  5553000
+0039580  "Raleigh-Cary, NC"  3755000
+0041620  "Salt Lake City, UT"  4967000
+0018140  "Columbus, OH"  3918000
+0026900  "Indianapolis-Carmel, IN"  1836003
+0029820  "Las Vegas-Paradise, NV"  3251800
+0017140  "Cincinnati-Middletown, OH-KY-IN"  3915000
+0047260  "Virginia Beach-Norfolk-Newport News, VA-NC"  5182000
+0047900  "Washington-Arlington-Alexandria, DC-VA-MD-WV"  1150000
+0013820  "Birmingham-Hoover, AL"  0107000
+0046140  "Tulsa, OK"  4075000
+0021340  "El Paso, TX"  4824000
+0036540  "Omaha-Council Bluffs, NE-IA"  3137000
+0014260  "Boise City-Nampa, ID"  1608830
+0038900  "Portland-Vancouver-Hillsboro, OR-WA"  4159000
+0046060  "Tucson, AZ"  0468850
+0030780  "Little Rock-North Little Rock-Conway, AR"  0541000
+0042340  "Savannah, GA"  1369000
+0045060  "Syracuse, NY"  3673000
+0013900  "Bismarck, ND"  3807200
+0043620  "Sioux Falls, SD"  4659020
+0013740  "Billings, MT"  3006550
+0015500  "Burlington, NC"  5010675
+0036500  "Olympia, WA"  5351300
+0038060  "Phoenix-Mesa-Glendale, AZ"  0455000
+0041740  "San Diego-Carlsbad-San Marcos, CA"  0666000
 
 
